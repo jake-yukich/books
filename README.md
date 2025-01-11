@@ -6,7 +6,11 @@ Tracking books read in 2025.
 
 > I decided to start the year off by rereading one of my childhood favorites and, in doing so, rekindled not only my passion for reading but also for one day becoming a magician capable of summoning formiddable djinn.
 
-2. `CLOG x Artificial Intelligence` | `multiple` | `✅ 202501__` | `180 pages`
+2. `Do Androids Dream of Electric Sheep?` | `Philip K. Dick` | `✅ 202501__` | `224 pages`
+
+> ...
+
+4. `CLOG x Artificial Intelligence` | `multiple` | `✅ 202501__` | `180 pages`
 
 > ...
 
