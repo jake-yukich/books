@@ -10,10 +10,7 @@ Tracking books read in 2025.
 
 > ...
 
-4. `CLOG x Artificial Intelligence` | `multiple` | `✅ 202501__` | `180 pages`
+3. `CLOG x Artificial Intelligence` | `multiple` | `✅ 202501__` | `180 pages`
 
 > ...
 
-## TODO
-- [ ] add a CSV data table
-- [ ] think on stats and visualizations that could be interesting
