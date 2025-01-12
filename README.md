@@ -1,5 +1,5 @@
 # books
-Tracking books read in 2025.
+Tracking books read in 2025. Planning to make a dataset and run some cool visualizations and such.
 
 ## Reading List
 1. `The Amulet of Samarkand` | `Jonathan Stroud` | `✅ 20250103` | `462 pages`
