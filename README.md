@@ -10,9 +10,9 @@ _Tracking books read in 2025. Planning to make a dataset and run some cool visua
 
 > Ruined by Ridley Scott.
 
-4. `CLOG x Artificial Intelligence` | `multiple` | `✅ 20250119` | `180 pages`
+3. `CLOG x Artificial Intelligence` | `multiple` | `✅ 20250119` | `180 pages`
 
-5. `The Death of Ivan Ilyich` | `Leo Tolstoy` | `✅ 20250201` | `53 pages`
+4. `The Death of Ivan Ilyich` | `Leo Tolstoy` | `✅ 20250201` | `53 pages`
 
 > Tolstoy's novella is dark and dense. I found that while the prose certainly had its moments, overall it was a bit too thick and redundant for my liking. The message is, however, as salient today as it ever was. Would not recommend reading while experiencing health issues. Hypochondriacs beware.
 
