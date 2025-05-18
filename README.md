@@ -17,3 +17,6 @@ _Tracking books read in 2025. Planning to make a dataset, recommendations, etc._
 
 8. `A Philosophy of Software Design` | `John Ousterhout` | `✅ 20250427` | `184 pages`
 
+9. `The Precipice` | `Toby Ord` | `✅ 20250516` | `468 pages`
+
+10. `Biosecurity Dilemmas` | `Christian Enemark` | `` | `203 pages`
